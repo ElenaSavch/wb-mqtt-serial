@@ -1,8 +1,14 @@
+wb-mqtt-serial (2.126.0) stable; urgency=medium
+
+  * Add device address setup RPC
+
+ -- Petr Krasnoshchekov <petr.krasnoshchekov@wirenboard.com>  Tue, 11 Jun 2024 09:31:08 +0500
+
 wb-mqtt-serial (2.125.0) stable; urgency=medium
 
   * Add device setup RPC
 
- -- Petr Krasnoshchekov <petr.krasnoshchekov@wirenboard.com>  Fri, 17 May 2024 15:55:25 +0500
+ -- Petr Krasnoshchekov <petr.krasnoshchekov@wirenboard.com>  Tue, 04 Jun 2024 16:18:22 +0500
 
 wb-mqtt-serial (2.124.0) stable; urgency=medium
 
